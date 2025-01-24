@@ -1,0 +1,56 @@
+:root {
+  --vp-c-brand: #fdda0d;
+  --vp-c-brand-light: #ffeb80;
+  --vp-c-brand-lighter: #fff3b3;
+  --vp-c-brand-dark: #ccae0a;
+  --vp-c-brand-darker: #998208;
+
+  --vp-button-brand-border: #fdda0d;
+  --vp-button-brand-text: #000000;
+  --vp-button-brand-bg: #fdda0d;
+  --vp-button-brand-hover-border: #ffeb80;
+  --vp-button-brand-hover-text: #000000;
+  --vp-button-brand-hover-bg: #ffeb80;
+  --vp-button-brand-active-border: #ccae0a;
+  --vp-button-brand-active-text: #000000;
+  --vp-button-brand-active-bg: #ccae0a;
+}
+
+/* Customizing other UI elements */
+.VPNav {
+  --vp-c-brand: #fdda0d !important;
+}
+
+.VPHero.VPHomeHero .container .main .name .clip {
+  color: #fdda0d !important;
+  -webkit-text-fill-color: #bf2604 !important;
+}
+
+.VPLink.active {
+  color: #fdda0d !important;
+}
+
+/* Custom styles for better contrast */
+.vp-doc a {
+  color: #998208;
+}
+
+.vp-doc a:hover {
+  color: #fdda0d;
+}
+
+/* Making sure text on yellow backgrounds is readable */
+/* .custom-block.tip {
+  border-color: #fdda0d;
+} */
+
+.VPButton.brand {
+  background-color: #fdda0d !important;
+  border-color: #fdda0d !important;
+  color: #000000 !important;
+}
+
+.VPButton.brand:hover {
+  background-color: #ffeb80 !important;
+  border-color: #ffeb80 !important;
+}
