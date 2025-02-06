@@ -98,7 +98,7 @@ export default defineConfig({
 
     footer: {
       message: "Sistem MyReCourt",
-      copyright: "© 2024 MyReCourt. Hak Cipta Terpelihara.",
+      copyright: `© ${new Date().getFullYear()} MyReCourt. Hak Cipta Terpelihara.`,
     },
 
     search: {
