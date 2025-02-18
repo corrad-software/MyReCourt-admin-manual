@@ -12,8 +12,9 @@ Membantu Admin HQ dan Admin Daerah untuk menyemak sejarah permohonan dan membuat
 1. Klik menu "Senarai Permohonan" pada menu utama
 2. Sistem akan memaparkan senarai semua permohonan yang pernah dibuat oleh pengguna
 :::
+<img src="/image/admin/permohonan/image1.png" alt="Menu Senarai Permohonan" width="250">
 
-![Menu Senarai Permohonan](./image/admin/permohonan/image1.png)
+
 
 ### 2. Carian Permohonan
 

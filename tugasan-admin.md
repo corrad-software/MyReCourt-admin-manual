@@ -14,8 +14,8 @@ Membantu Admin HQ dan Admin Daerah untuk melihat tugasan dan mengemaskini borang
 3. Tandakan kotak "I'm not a robot"
 4. Klik butang **LOG MASUK**
 :::
+<img src="/image/admin/tugasan/image1.png" alt="Log Masuk Admin" width="250">
 
-![Log Masuk Admin](./image/admin/tugasan/image1.png)
 
 ### 2. Paparan Senarai Tugasan
 
@@ -31,17 +31,17 @@ Selepas log masuk, sistem akan memaparkan senarai tugasan:
 
 ::: tip Langkah 3
 Pada kolum Tindakan, terdapat dua pilihan:
-1. Klik ikon ![Edit](./image/admin/tugasan/image3.png) untuk:
+1. Klik ikon <img src="./image/admin/tugasan/image3.png" alt="Edit" width="55"> untuk:
    - Mengemaskini maklumat borang
    - Menetapkan status borang
    - Menukar daerah permohonan
-2. Klik ikon ![Cetak](./image/admin/tugasan/image4.png) untuk mencetak borang dalam format PDF
+2. Klik ikon untuk mencetak borang dalam format PDF
 :::
 
 ### 4. Kemaskini Borang Permohonan
 
 ::: tip Langkah 4
-1. Klik ikon ![Edit](./image/admin/tugasan/image5.png) untuk melihat borang lengkap
+1. Klik ikon <img src="./image/admin/tugasan/image5.png" alt="Edit" width="60"> untuk melihat borang lengkap
 2. Kemaskini maklumat borang jika perlu
 3. Di bahagian "Tindakan Terhadap Permohonan":
    - Pilih daerah (jika perlu hantar ke daerah lain)
@@ -71,7 +71,7 @@ Klik butang ![Hantar](./image/admin/tugasan/image7.png) untuk mengemaskini statu
 ### 6. Mencetak Borang
 
 ::: tip Langkah 6
-1. Klik ikon ![Cetak](./image/admin/tugasan/image8.png) untuk mencetak borang
+1. Klik ikon  <img src="./image/admin/tugasan/image8.png" alt="Cetak" width="60"> untuk mencetak borang
 2. Sistem akan memaparkan borang dalam format PDF
 3. Borang boleh dicetak atau disimpan
 :::

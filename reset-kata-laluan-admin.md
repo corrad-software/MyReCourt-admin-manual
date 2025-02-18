@@ -14,7 +14,7 @@ Membantu Admin HQ untuk menetapkan semula kata laluan pengguna dalam sistem MyRe
 3. Anda akan melihat paparan log masuk sistem
 :::
 
-![Paparan Log Masuk](./image/admin/reset-kata-laluan/image1.png)
+<img src="./image/admin/reset-kata-laluan/image1.png" alt="Paparan Log Masuk" width="300">
 
 ### 2. Log Masuk Sebagai Admin HQ
 
@@ -25,7 +25,7 @@ Membantu Admin HQ untuk menetapkan semula kata laluan pengguna dalam sistem MyRe
 4. Klik butang **LOG MASUK**
 :::
 
-![Log Masuk Admin HQ](./image/admin/reset-kata-laluan/image2.png)
+<img src="./image/admin/reset-kata-laluan/image2.png" alt="Log Masuk Admin HQ" width="250">
 
 ### 3. Akses Menu Pengurusan Pengguna
 
@@ -34,7 +34,7 @@ Membantu Admin HQ untuk menetapkan semula kata laluan pengguna dalam sistem MyRe
 2. Pilih submenu "Pengurusan Pengguna"
 :::
 
-![Menu Pengurusan Pengguna](./image/admin/reset-kata-laluan/image3.png)
+<img src="./image/admin/reset-kata-laluan/image3.png" alt="Menu Pengurusan Pengguna" width="300">
 
 ### 4. Carian Pengguna
 
@@ -50,7 +50,8 @@ Sistem akan memaparkan:
 ### 5. Kemaskini Kata Laluan
 
 ::: tip Langkah 5
-1. Klik butang ![Update](./image/admin/reset-kata-laluan/image6.png) pada pengguna yang ingin ditetapkan semula kata laluan
+1. Klik butang ![Update](./image/admin/reset-kata-laluan/image6.png)
+ pada pengguna yang ingin ditetapkan semula kata laluan
 2. Sistem akan memaparkan borang kemaskini pengguna
 :::
 
@@ -63,7 +64,7 @@ Sistem akan memaparkan:
    - Kata Laluan Pengguna (Kata Laluan Baru)
    - Kata Laluan Pengguna (Masuk Semula Kata Laluan Baru)
 2. Klik butang ![Reset Password](./image/admin/reset-kata-laluan/image8.png) untuk menetapkan kata laluan baharu
-3. Klik butang ![Tutup](./image/admin/reset-kata-laluan/image9.png) jika ingin membatalkan proses
+3. Klik butang ![Tutup](./image/admin/reset-kata-laluan/image9.png)jika ingin membatalkan proses
 :::
 
 ![Notifikasi Email](./image/admin/reset-kata-laluan/image10.png)

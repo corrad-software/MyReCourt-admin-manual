@@ -14,8 +14,10 @@ Membantu Admin HQ untuk mendaftar dan mengurus pengguna admin daerah dalam siste
 3. Log masuk sebagai Admin HQ
 :::
 
-![Paparan Log Masuk](./image/admin/pendaftaran/image1.png)
-![Log Masuk Admin HQ](./image/admin/pendaftaran/image2.png)
+<img src="./image/admin/pendaftaran/image1.png" alt="Paparan Log Masuk" width="250">
+<br>
+
+<img src="./image/admin/pendaftaran/image2.png" alt="Log Masuk Admin HQ" width="250">
 
 ### 2. Akses Menu Pengurusan Pengguna
 
@@ -25,7 +27,7 @@ Membantu Admin HQ untuk mendaftar dan mengurus pengguna admin daerah dalam siste
 3. Sistem akan memaparkan halaman pengurusan pengguna
 :::
 
-![Menu Pengurusan Pengguna](./image/admin/pendaftaran/image3.png)
+<img src="./image/admin/pendaftaran/image3.png" alt="Menu Pengurusan Pengguna" width="250">
 
 ### 3. Paparan Senarai Pengguna
 
@@ -45,7 +47,7 @@ Sistem akan memaparkan:
 2. Sistem akan memaparkan borang pendaftaran pengguna
 3. Isi semua medan yang wajib dalam borang pendaftaran
 4. Klik butang ![Simpan](./image/admin/pendaftaran/image8.png) untuk menyimpan maklumat
-5. Klik butang ![Batal](./image/admin/pendaftaran/image9.png) jika ingin membatalkan pendaftaran
+5. Klik butang ![Tutup](./image/admin/pendaftaran/image9.png) jika ingin membatalkan pendaftaran
 :::
 
 ![Borang Pendaftaran](./image/admin/pendaftaran/image7.png)
@@ -55,13 +57,13 @@ Sistem akan memaparkan:
 
 ::: tip Langkah 5
 1. Navigasi ke menu "Pentadbir Pengguna" > "Peranan Pengguna"
-2. Pilih ![Pengguna](./image/admin/pendaftaran/image12.png) di bahagian atas paparan
+2. Pilih <img src="./image/admin/pendaftaran/image12.png" alt="Pengguna" width="200"> di bahagian atas paparan
 3. Cari pengguna yang baru didaftarkan
 4. Pilih peranan yang dibenarkan untuk pengguna tersebut
-5. Klik butang ![Simpan](./image/admin/pendaftaran/image15.png) untuk menyimpan tetapan peranan
+5. Klik butang <img src="./image/admin/pendaftaran/image15.png" alt="Simpan" width="70"> untuk menyimpan tetapan peranan
 :::
+<img src="./image/admin/pendaftaran/image11.png" alt="Menu Peranan Pengguna" width="250">
 
-![Menu Peranan Pengguna](./image/admin/pendaftaran/image11.png)
 ![Carian Pengguna](./image/admin/pendaftaran/image13.png)
 ![Tetapan Peranan](./image/admin/pendaftaran/image14.png)
 ![Peranan Tersimpan](./image/admin/pendaftaran/image16.png)
@@ -72,3 +74,7 @@ Sistem akan memaparkan:
 - Simpan maklumat log masuk pengguna dengan selamat
 - Maklumkan ID pengguna dan kata laluan kepada pengguna baharu melalui saluran yang selamat
 ::: 
+<style>{
+
+}
+</style>

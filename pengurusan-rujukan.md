@@ -13,8 +13,7 @@ Membantu Admin HQ untuk menambah dan mengemaskini maklumat rujukan (lookup) dala
 2. Layari URL: [https://myrecourt.kedah.gov.my/](https://myrecourt.kedah.gov.my/)
 3. Anda akan melihat paparan log masuk sistem
 :::
-
-![Paparan Log Masuk](./image/admin/lookup/image1.png)
+<img src="./image/admin/lookup/image1.png" alt="Paparan Log Masuk" width="300">
 
 ### 2. Log Masuk Sebagai Admin HQ
 
@@ -24,8 +23,7 @@ Membantu Admin HQ untuk menambah dan mengemaskini maklumat rujukan (lookup) dala
 3. Tandakan kotak "I'm not a robot"
 4. Klik butang **LOG MASUK**
 :::
-
-![Log Masuk Admin HQ](./image/admin/lookup/image2.png)
+<img src="./image/admin/lookup/image2.png" alt="Log Admin HQ" width="300">
 
 ### 3. Akses Menu Pengurusan Rujukan
 
@@ -71,7 +69,7 @@ Membantu Admin HQ untuk menambah dan mengemaskini maklumat rujukan (lookup) dala
 ### 7. Kemaskini Rujukan Sedia Ada
 
 ::: tip Langkah 7
-1. Klik ikon ![Edit](./image/admin/lookup/image11.png) pada kolum Tindakan untuk rujukan yang ingin dikemaskini
+1. Klik ikon  <img src="/image/admin/lookup/image11.png" alt="Edit" width="60">  pada kolum Tindakan untuk rujukan yang ingin dikemaskini
 2. Kemaskini maklumat yang dibenarkan:
    - Code: Tidak boleh diubah kerana mungkin telah digunakan dalam permohonan
    - Description: Boleh dikemaskini kerana hanya label paparan
