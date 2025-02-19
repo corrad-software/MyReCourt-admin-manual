@@ -17,7 +17,7 @@ Membantu Admin HQ untuk mendaftar dan mengurus pengguna admin daerah dalam siste
 <img src="./image/admin/pendaftaran/image1.png" alt="Paparan Log Masuk" width="250">
 <br>
 
-<img src="./image/admin/pendaftaran/image2.png" alt="Log Masuk Admin HQ" width="250">
+>
 
 ### 2. Akses Menu Pengurusan Pengguna
 
