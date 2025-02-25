@@ -56,11 +56,11 @@ export default defineConfig({
         text: "Pengurusan Admin",
         items: [
           { text: "Log Masuk", link: "/log-masuk" },
-          { text: "Pendaftaran Pengguna", link: "/pendaftaran-pengguna-admin" },
-          { text: "Reset Kata Laluan", link: "/reset-kata-laluan-admin" },
+          { text: "Pendaftaran Pengguna (Admin IT)", link: "/pendaftaran-pengguna-admin" },
+          { text: "Reset Kata Laluan (Admin IT)", link: "/reset-kata-laluan-admin" },
           { text: "Senarai Permohonan", link: "/senarai-permohonan-admin" },
           { text: "Tugasan Admin", link: "/tugasan-admin" },
-          { text: "Pengurusan Rujukan", link: "/pengurusan-rujukan" },
+          { text: "Pengurusan Rujukan (Admin IT)", link: "/pengurusan-rujukan" },
           { text: "Cetak Borang", link: "/cetak-borang" },
         ],
       },
@@ -76,8 +76,8 @@ export default defineConfig({
             collapsed: false,
             items: [
               { text: "Log Masuk", link: "/log-masuk" },
-              { text: "Pendaftaran Pengguna", link: "/pendaftaran-pengguna-admin" },
-              { text: "Reset Kata Laluan", link: "/reset-kata-laluan-admin" },
+              { text: "Pendaftaran Pengguna (Admin IT)", link: "/pendaftaran-pengguna-admin" },
+              { text: "Reset Kata Laluan <br> (Admin IT)", link: "/reset-kata-laluan-admin" },
             ],
           },
           {
@@ -86,7 +86,7 @@ export default defineConfig({
             items: [
               { text: "Senarai Permohonan", link: "/senarai-permohonan-admin" },
               { text: "Tugasan Admin", link: "/tugasan-admin" },
-              { text: "Pengurusan Rujukan", link: "/pengurusan-rujukan" },
+              { text: "Pengurusan Rujukan <br> (Admin IT)", link: "/pengurusan-rujukan" },
               { text: "Cetak Borang", link: "/cetak-borang" },
             ],
           },
