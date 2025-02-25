@@ -20,7 +20,7 @@ features:
     details: Panduan log masuk ke sistem untuk pentadbir.
     link: /log-masuk
   - icon: 👥
-    title: Pendaftaran Pengguna
+    title: Pendaftaran Pengguna (Admin IT)
     details: Daftar dan urus akaun pengguna admin sistem dengan mudah.
     link: /pendaftaran-pengguna-admin
   - icon: 🔑

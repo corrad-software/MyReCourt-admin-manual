@@ -25,7 +25,7 @@ Membantu pengguna admin untuk log masuk ke dalam sistem MyReCourt menggunakan ID
 4. Klik butang **LOG MASUK** untuk masuk ke dalam sistem
 :::
 
-<img src="./image/admin/log-masuk/image2.png" alt="Log Masuk ke Sistem" width="250" />
+<img src="./image/admin/log-masuk/image2.png" alt="Log Masuk ke Sistem" width="350" />
 
 ::: warning Nota Penting
 - Pastikan ID pengguna dan kata laluan yang dimasukkan adalah tepat
